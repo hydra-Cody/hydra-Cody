@@ -4,6 +4,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 
 
+![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
 
