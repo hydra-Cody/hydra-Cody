@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there ,I'm Anurag Dwivedi 👋
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **anuragdw710/anuragdw710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
