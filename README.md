@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=Gradient)
 
 
 <!--
