@@ -4,7 +4,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 
 
-![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+![image]({https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white})
+
+[GitHub](http://github.com)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
