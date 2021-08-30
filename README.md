@@ -1,4 +1,4 @@
-### � <h1>🤠 Hi there ,I'm Anurag Dwivedi 👋 </h1>                  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})👀
+### � <h1>🤠 Hi there ,I'm Anurag Dwivedi 👋 </h1>                  ![👀](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 
 <h3>Feel Free To connect with me  ☜(ﾟヮﾟ☜)</h3>
 
