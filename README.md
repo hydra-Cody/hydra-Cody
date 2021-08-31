@@ -3,6 +3,7 @@
 ![visiters](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 <h3>👀</h3>
 I'm currently a Student at  MMMUT,India. I've completed my Highschool at KVRRC, Farrukhabad. Here's a peek at my professional life timeline!
+
 - Intern Data Science And Business Analyst [@The Spark Foundation](https://www.thesparksfoundationsingapore.org/)
 
 :computer: Tech Stack: React,C++,Python,Tensorflow,keras
