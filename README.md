@@ -13,6 +13,20 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
+<br/>
+
+[<p align='center'> <img src="https://img.shields.io/badge/website-nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
+[<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
+[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
+[<img src="https://img.shields.io/badge/twitter-bongalenimish-lightblue?style=for-the-badge&logo=twitter"/>][4]
+[<img src="https://img.shields.io/badge/quora-nimishbongale-red?style=for-the-badge&logo=quora"/></p>][5]
+
+ [1]: https://anurag710.github.io/
+ [2]: mailto:anuragdw0710@gmail.com
+ [3]: https://www.linkedin.com/in/anuragdwivedi45/
+ [4]: https://twitter.com/Anuragdwivedi45
+ [5]: https://www.quora.com/profile/anurag-deivedi
+ 
 
 
 <!--
