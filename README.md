@@ -1,8 +1,18 @@
-<h1>🤠 Hi there ,I'm Anurag Dwivedi👋 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="40" height="35"></h1>                  
+<h1>🤠 Hi there ,I'm Anurag Dwivedi👋 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="50" height="43"></h1>                  
 
 ![visiters](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 <h3>👀</h3>
+I'm currently a Student at  MMMUT,India. I've completed my Highschool at KVRRC, Farrukhabad. Here's a peek at my professional life timeline!
+- Intern Data Science And Business Analyst [@The Spark Foundation](https://www.thesparksfoundationsingapore.org/)
 
+:computer: Tech Stack: React,C++,Python,Tensorflow,keras
+ - 💬 Ask me anything about Technical Documentation, Machine Learning,Competitive Programming!
+ - ❤️ I love contributing and collaborating!
+
+If you don't find me coding/writing I'll most likely be:
+1.  Exploring Other Fields
+2. Playing chess ([challenge](https://lichess.org/?any#friend) me!) Username: Anurag-dw
+3. Watching Movie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
 <br/>
