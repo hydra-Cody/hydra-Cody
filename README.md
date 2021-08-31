@@ -1,4 +1,4 @@
-<h1>🤠 Hi there ,I'm Anurag Dwivedi! 👋 <img src="https://media.giphy.com/media/dC9DTdqPmRnlS/giphy.gif" width=" 528" height="229"></h1>                  
+<h1>🤠 Hi there ,I'm Anurag Dwivedi! 👋 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="40" height="35"></h1>                  
 
 <h3>👀</h3>![visiters](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 
