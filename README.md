@@ -1,17 +1,6 @@
-### � <h1>🤠 Hi there ,I'm Anurag Dwivedi 👋 <img src="https://media.giphy.com/media/dC9DTdqPmRnlS/giphy.gif" width="40" height="35"></h1>                  
-
+<h1>🤠 Hi there ,I'm Anurag Dwivedi! 👋 <img src="https://media.giphy.com/media/dC9DTdqPmRnlS/giphy.gif" width=" 528" height="229"></h1>                  
 
 <h3>👀</h3>![visiters](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
-
-
-
-
-
-
-
-
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
