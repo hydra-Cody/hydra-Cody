@@ -19,7 +19,7 @@
 [<img src="https://img.shields.io/badge/email-anuragdw0710@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
 [<img src="https://img.shields.io/badge/linkedin-anuragdwivedi45-blue?style=for-the-badge&logo=linkedin"/>][3]
 [<img src="https://img.shields.io/badge/twitter-Anuragdwivedi45-lightblue?style=for-the-badge&logo=twitter"/>][4]
-[<img src="https://img.shields.io/badge/quora-anurag-dwivedi-red?style=for-the-badge&logo=quora"/></p>][5]
+[<img src="https://img.shields.io/badge/quora-anurag-red?style=for-the-badge&logo=quora"/></p>][5]
 
  [1]: https://anurag710.github.io/
  [2]: mailto:anuragdw0710@gmail.com
