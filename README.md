@@ -15,8 +15,9 @@ If you don't find me coding/writing I'll most likely be:
 2. Playing chess ([challenge](https://lichess.org/?any#friend) me!) Username: Anurag-dw
 3. Watching Movie
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /></p> -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" />&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /></p>
 
 <br/>
 
