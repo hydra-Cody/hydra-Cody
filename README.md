@@ -37,6 +37,7 @@ If you don't find me coding/writing I'll most likely be:
 
 <br>
  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" /></p>
 
 
 <!--
