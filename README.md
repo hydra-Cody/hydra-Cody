@@ -16,7 +16,13 @@ If you don't find me coding/writing I'll most likely be:
 3. Watching Movie
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" /></p>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
+📈 my github stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnudeepGunukula&layout=compact" alt="anudeepgunukula" /></p>
+<br/>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnudeepGunukula&&show_icons=true&title_color=ffffff&icon_color=01ff0d&text_color=01e4ff&bg_color=151515" alt="anudeepgunukula" /></p>
+<br>
 
 <br/>
 
