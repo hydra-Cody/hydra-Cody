@@ -25,7 +25,6 @@ If you don't find me coding/writing I'll most likely be:
 [<img src="https://img.shields.io/badge/linkedin-anuragdwivedi45-blue?style=for-the-badge&logo=linkedin"/>][3]
 [<img src="https://img.shields.io/badge/twitter-Anuragdwivedi45-lightblue?style=for-the-badge&logo=twitter"/>][4]
 [<img src="https://img.shields.io/badge/quora-anurag-red?style=for-the-badge&logo=quora"/></p>][5]
-
  [1]: https://anuragdw710.github.io/Portfolio/
  [2]: mailto:anuragdw0710@gmail.com
  [3]: https://www.linkedin.com/in/anuragdwivedi45/
