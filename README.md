@@ -20,11 +20,13 @@ If you don't find me coding/writing I'll most likely be:
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" />&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /></p>
 
 <br/>
+
 [<p align='center'> <img src="https://img.shields.io/badge/website-anuragdw.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
 [<img src="https://img.shields.io/badge/email-anuragdw0710@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
 [<img src="https://img.shields.io/badge/linkedin-anuragdwivedi45-blue?style=for-the-badge&logo=linkedin"/>][3]
 [<img src="https://img.shields.io/badge/twitter-Anuragdwivedi45-lightblue?style=for-the-badge&logo=twitter"/>][4]
 [<img src="https://img.shields.io/badge/quora-anurag-red?style=for-the-badge&logo=quora"/></p>][5]
+
  [1]: https://anuragdw710.github.io/Portfolio/
  [2]: mailto:anuragdw0710@gmail.com
  [3]: https://www.linkedin.com/in/anuragdwivedi45/
