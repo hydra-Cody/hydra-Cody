@@ -5,17 +5,20 @@
 <h1></h1>
 I'm currently a Student at  MMMUT,India. I've completed my Highschool at KVRRC, Farrukhabad. Here's a peek at my professional life timeline!
 
-
+- Freelance Technical Content Writer.
 - Intern Data Science And Business Analyst [@The Spark Foundation](https://www.thesparksfoundationsingapore.org/)
 
-:computer: Tech Stack: React,C++,Python,Tensorflow,keras
+:computer: Tech Stack: C,C++,Java,Python,Nodejs,Mongodb,React,Tensorflow,keras
  - 💬 Ask me anything about Technical Documentation, Machine Learning,Competitive Programming!
  - ❤️ I love contributing and collaborating!
+ - Check out my technical blogs:[Dev](https://dev.to/anuragdw45/)
+ 
+:✌️Currently Working on:
+- Environment Protenction App
 
 If you don't find me coding/writing I'll most likely be:
 1.  Exploring Other TechStacks.
 2. Playing chess ([challenge](https://lichess.org/?any#friend) me!) Username: Anurag-dw
-3. Watching Movie,Writing Blogs on Medium.
 <br/>
 <h1></h1>
 
