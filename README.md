@@ -1,9 +1,9 @@
-<h1>🤠 Hi there ,I'm Anurag Dwivedi👋 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="50" height="43"></h1>                  
+<h1>🤠 Hi there ,I'm Hydracody👋 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="50" height="43"></h1>                  
 
 ![visiters](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 <h3>👀</h3>
 <h1></h1>
-I'm currently a Student at  MMMUT,India. I've completed my Highschool at KVRRC, Farrukhabad. Here's a peek at my professional life timeline!
+I'm currently a Student at  ####. I've completed my Highschool at #####. Here's a peek at my professional life timeline!
 
 - Freelance Technical Content Writer.
 - Intern Data Science And Business Analyst [@The Spark Foundation](https://www.thesparksfoundationsingapore.org/)
