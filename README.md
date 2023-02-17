@@ -26,7 +26,8 @@ If you don't find me coding/writing I'll most likely be:
 
 <br/>
 
-[<p align='center'> <img src="https://img.shields.io/badge/website-anuragdw.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
+[<p align='center'>
+ <img src="https://img.shields.io/badge/website-anuragdw.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
 [<img src="https://img.shields.io/badge/email-anuragdw0710@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
 [<img src="https://img.shields.io/badge/linkedin-anuragdwivedi45-blue?style=for-the-badge&logo=linkedin"/>][3]
 [<img src="https://img.shields.io/badge/twitter-Anuragdwivedi45-lightblue?style=for-the-badge&logo=twitter"/>][4]
