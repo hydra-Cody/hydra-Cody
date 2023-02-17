@@ -5,8 +5,8 @@
 <h1></h1>
 I'm currently a Student at  ####. I've completed my Highschool at #####. Here's a peek at my professional life timeline!
 
-- Freelance Technical Content Writer.
-- Intern Data Science And Business Analyst [@The Spark Foundation](https://www.thesparksfoundationsingapore.org/)
+- #####.
+- #####.
 
 :computer: Tech Stack: C,C++,Java,Python,Nodejs,Mongodb,React,Tensorflow,keras
  - 💬 Ask me anything about Technical Documentation, Machine Learning,Competitive Programming!
