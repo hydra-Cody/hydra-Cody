@@ -16,8 +16,9 @@ I'm currently a Student at  ####. I've completed my Highschool at #####. Here's 
 - #####
 
 <br/>
-If you also love to code,then lets connect - anuragdw0710@gmail.com
+<h2>If you also love to code,then lets connect - anuragdw0710@gmail.com.</h2>
 
+<br/>
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" />&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /></p>
 
