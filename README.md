@@ -8,7 +8,7 @@ I'm currently a Student at  ####. I've completed my Highschool at #####. Here's 
 - #####.
 - #####.
 
-:computer: Tech Stack: C,C++,Java,Python,Nodejs,Mongodb,React,Tensorflow,keras
+:computer: Tech Stack: ######
  - 💬 Ask me anything about Technical Documentation, Machine Learning,Competitive Programming!
  - ❤️ I love contributing and collaborating!
  - Check out my technical blogs:[Dev](https://dev.to/anuragdw45/)
