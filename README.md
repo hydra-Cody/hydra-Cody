@@ -16,7 +16,7 @@ I'm currently a Student at  ####. I've completed my Highschool at #####. Here's 
 - #####
 
 <br/>
-<h2>If you also love to code,then lets connect - anuragdw0710@gmail.com.</h2>
+<h4>If you also love to code,then lets connect - anuragdw0710@gmail.com.</h4>
 
 <br/>
 <br/>
