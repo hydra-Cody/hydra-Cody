@@ -8,9 +8,9 @@ I'm currently a Student at  ####. I've completed my Highschool at #####. Here's 
 - #####.
 
 :computer: Tech Stack: ######
- - 💬 Ask me anything about Technical Documentation, Machine Learning,Competitive Programming!
+ - 💬 Ask me anything about ####!
  - ❤️ I love contributing and collaborating!
- - Check out my technical blogs:[Dev](https://dev.to/anuragdw45/)
+ - Check out my technical blogs:[Dev](https://dev.to/a/)
  
 :✌️Currently Working on:
 - #####
