@@ -1,4 +1,4 @@
-<h1>🤠 Hi there ,I'm Hydracody👋 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="50" height="43"></h1>                  
+<h1>🤠 Hi there ,I'm Hydracody🙏 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="50" height="43"></h1>                  
 
 ![visiters](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
 <h1></h1>
