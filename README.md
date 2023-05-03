@@ -10,7 +10,7 @@ I'm currently a Student at  ####. I've completed my Highschool at #####. Here's 
 :computer: Tech Stack: ######
  - 💬 Ask me anything about ####!
  - ❤️ I love contributing and collaborating!
- - Check out my technical blogs:[Dev](https://dev.to/a/)
+ - Technical blogs:[Dev](https://dev.to/a/)
  - Stackoverflow:[anurag](https://stackoverflow.com/users/15171403/anurag)
  
 :✌️Currently Working on:
