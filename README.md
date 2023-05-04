@@ -1,29 +1,3 @@
-<h1>🤠 Hi there ,I'm Hydracody🙏 <img src="https://media.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif" width="50" height="43"></h1>     
-
-<br/>
-![visiters](https://visitor-badge.glitch.me/badge?page_id=${anuragdw710}.${anuragdw710})
-
-<br/>
-
-I'm currently a Student at ##. I've completed my Highschool at ##. Here's a peek at my professional life timeline!
-- #####.
-- #####.
-
- <br/>
- 
-:computer: Tech Stack: ######
- - 💬 Ask me anything about ####!
- - ❤️ I love contributing and collaborating!
- - 📫 How to reach me Technical blogs:[Dev](https://dev.to/a/), Stackoverflow:[anurag](https://stackoverflow.com/users/15171403/anurag)
- 
- <br/>
- 
- ✌️Currently Working on:
-- #####
-- 
-
-
- <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" />&nbsp;</p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /></p>
  <br/>
