@@ -1,6 +1,7 @@
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" />&nbsp;<br/>
-##
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /><br/>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710" alt="anuragdw710" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" /></p>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact" alt="anuragdw710" /><br/></p>
 
