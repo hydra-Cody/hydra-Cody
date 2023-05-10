@@ -3,7 +3,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold" alt="anuragdw710" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact" alt="anuragdw710" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragdw710&layout=compact" alt="anuragdw710" />
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)](https://github.com/anuragdw710/github-readme-stats)  -->
