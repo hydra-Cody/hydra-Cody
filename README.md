@@ -48,6 +48,7 @@ A passionate software engineer with expertise in competitive coding, web develop
 * Experience in data structures, algorithms, OOPs, DBMS, computer networks, and operating systems 
 
 ## Projects I worked on
+![](https://media.giphy.com/media/Tk7xrCPqpb5CtE8nA9/giphy.gif)
 
 * I have also worked on some Mern stack projects such as Doctor Appointment Booking App, and Crwn Clothing App.  
 * Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a face recognizer, Real stat price predictor.  
