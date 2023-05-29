@@ -1,5 +1,5 @@
 # Hi there! I'm Anurag Dwivedi, 
------
+
 A passionate software engineer with expertise in competitive coding, web development, and machine learning. I am currently pursuing my B. Tech in Computer Engineering at the Madan Mohan Malaviya University of Technology. I have a strong passion for problem-solving and enjoy participating in competitive programming contests.  
   
 * I have achieved significant milestones in various coding platforms, including being an Expert on Codeforces with a maximum rating of 1638, a 5-star coder on Codechef with a maximum rating of 2000, and a Knight on Leetcode with a maximum rating of 2038 (top 2.1%). I actively participate in coding competitions and consistently strive to enhance my coding skills.  
