@@ -50,8 +50,11 @@ A passionate software engineer with expertise in competitive coding, web develop
 ## Projects I worked on
 
 * I have also worked on some Mern stack projects such as 
-** Doctor Appointment Booking App, and Crwn Clothing App.  
-* Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a face recognizer, Real stat price predictor.  
+  * Doctor Appointment Booking App, and 
+  * Crwn Clothing App.  
+* Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a 
+  * face recognizer and
+  *  Real stat price predictor.  
   
  ## Contract Me:
 
