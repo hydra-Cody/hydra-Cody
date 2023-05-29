@@ -12,6 +12,8 @@ A passionate software engineer with expertise in competitive coding, web develop
 
 ![3](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)
 
+![4](https://github-profile-trophy.vercel.app/?username=anuragdw710)
+
 ## About Me
 
 * I am currently pursuing my B. Tech in Computer Engineering at the Madan Mohan Malaviya University of Technology. I have a strong passion for problem-solving and enjoy participating in competitive programming contests.  
