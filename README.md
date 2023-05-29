@@ -15,6 +15,8 @@ A passionate software engineer with expertise in competitive coding, web develop
 
 ![4](https://github-profile-trophy.vercel.app/?username=anuragdw710)
 
+![](https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif)
+
 ## About Me
 
 * I am currently pursuing my B. Tech in Computer Engineering at the Madan Mohan Malaviya University of Technology. I have a strong passion for problem-solving and enjoy participating in competitive programming contests.  
