@@ -74,7 +74,7 @@ A passionate software engineer with expertise in competitive coding, web develop
 ## Open source Contribution
 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
-* Participated in Hacktofest 2021 and contributes in many repos .
+* Participated in Hacktofest 2021 and contributes in many repos . [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
 
 
 
