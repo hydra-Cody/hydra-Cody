@@ -2,6 +2,7 @@
 
 A passionate software engineer with expertise in competitive coding, web development, and machine learning.
 
+![](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
 
 
 ## Github summery
