@@ -5,7 +5,7 @@ A passionate software engineer with expertise in competitive coding, web develop
 ![](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
 
 
-## Github summery
+## Github summary
 
 ![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710)
 
