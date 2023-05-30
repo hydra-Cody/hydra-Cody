@@ -87,6 +87,7 @@ A passionate software engineer with expertise in competitive coding, web develop
 
 
 
+## Currently 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
