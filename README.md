@@ -58,6 +58,7 @@ A passionate software engineer with expertise in competitive coding, web develop
   * face recognizer and
   *  Real stat price predictor.  
   *  Flower Classification,Time Series Forecasting,Cats Vs Dogs Classification,Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
+ [Sample 🔗 Video](https://www.youtube.com/watch?v=1MDSDfJSC08&list=PLzaLmZGByna7Pw1D5_EXcPods9k5xCAFa)
   
  ## Contract Me:
 
