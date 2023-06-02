@@ -68,7 +68,7 @@ A passionate software engineer with expertise in competitive coding, web develop
   * Doctor Appointment Booking App, and 
   * Crwn Clothing App.  
   * Nasa Space Mission App
-  * Tic Tac Toe App,Geo Location App,Snake Game App,Web Clock App, Text Reader App, Video-player App, Jumpo Game App. 
+  * Tic Tac Toe App,Geo Location App,Snake Game App,Web Clock App, Text Reader App, Video-player App, Jumpo Game App,To-Do-List,recipe-finder,Book-Library-ass. 
 * Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a 
   * face recognizer and
   *  Real stat price predictor.  
