@@ -7,7 +7,7 @@ A passionate software engineer with expertise in competitive coding, web develop
 
 ## Github summary
 
-![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710)
+![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710) 
 
 ![2](https://github-readme-stats-sigma-five.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
 
