@@ -1,4 +1,4 @@
-# Hi there! I'm Anurag Dwivedi, 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there!+I'm+Anurag+Dwivedi%2C+)](https://git.io/typing-svg)
 
 A passionate software engineer with expertise in competitive coding, web development, and machine learning.
 
