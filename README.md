@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7070A&background=191BFF00&vCenter=true&width=435&lines=+Hi+there!+I'm+Anurag+Dwivedi%2C+)](https://git.io/typing-svg)
 
-##
+## About Me 
 
 A passionate software engineer with expertise in competitive coding, web development, and machine learning.
 
