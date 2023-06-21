@@ -88,6 +88,8 @@
 
 ## My competitive programming achievement are
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hydra_cody)
+
 * Air 27 Atcoder Beginner contest 297 among 6k+ participate.
 * Air 55 Leetcode biweekly 155 among 22k+
 * Air 51 Codeforces Round 875(Div2) among 21k+ 
