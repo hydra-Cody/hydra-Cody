@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-* Familiarity with jQuery, Node.js,React, and Spring.  
+* Familiarity with jQuery, Node.js, React, and Spring.  
 
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -69,15 +69,18 @@
   * Doctor Appointment Booking App, and 
   * Crwn Clothing App.  
   * Nasa Space Mission App
-  * Tic Tac Toe App,Geo Location App,Snake Game App,Web Clock App, Text Reader App, Video-player App, Jumpo Game App,To-Do-List,recipe-finder,Book-Library-ass. 
+  * Tic Tac Toe App, Geo Location App, Snake Game App, Web Clock App, Text Reader App, Video-player App, Jumpo Game App, To-Do-List,recipe-finder, Book-Library-ass. 
 * Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a 
-  * face recognizer and
+  * face recognition and
   *  Real stat price predictor.  
-  *  Flower Classification,Time Series Forecasting,Cats Vs Dogs Classification,Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
+  *  Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
   
- [Sample🪝 Video](https://www.youtube.com/watch?v=1MDSDfJSC08&list=PLzaLmZGByna7Pw1D5_EXcPods9k5xCAFa)
-  
- ## Contract Me:
+ [Sample🪝 Video](https://www.youtube.com/watch?v=1MDSDfJSC08&list=PLzaLmZGByna7Pw1D5_EXcPods9k5xCAFa)     
+ <div>
+ <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+ </div>
+    
+ ## Contact Me:
 
   * I am always open to collaboration and eager to discuss new ideas and opportunities. If you have any questions or would like to connect, feel free to reach out to me via email at anuragdw0710@gmail.com. You can also find me on Linkedin at [Anurag Dwivedi](https://www.linkedin.com/in/anuragdwivedi45) and on Twitter at [@Anuragdwivedi45](https://twitter.com/Anuragdwivedi45).
  
@@ -90,18 +93,18 @@
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hydra_cody)
 
-* Air 27 Atcoder Beginner contest 297 among 6k+ participate.
+* Air 27 Atcoder Beginner contest 297 among 6k+ participants.
 * Air 55 Leetcode biweekly 155 among 22k+
 * Air 51 Codeforces Round 875(Div2) among 21k+ 
 * Air 38 Codechef Starters 67 among 3k+
-* Ranked 5 th in syntax siege College coding  among 200+ teams
+* Ranked 5th in syntax siege College coding  among 200+ teams
 *   Ranked 67 Range de code College ContestRankedamong 300+ participates
 
 
 ## Open source Contribution
 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
-* Participated in Hacktofest 2021 and contributes in many repos . [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
+* Participated in Hacktofest 2021 and contributes to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
 
 
 
