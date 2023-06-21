@@ -74,9 +74,8 @@
   * face recognition and
   *  Real stat price predictor.  
   *  Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
-  
+  <div>
  [Sample🪝 Video](https://www.youtube.com/watch?v=1MDSDfJSC08&list=PLzaLmZGByna7Pw1D5_EXcPods9k5xCAFa)     
- <div>
  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
  </div>
     
