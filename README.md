@@ -18,13 +18,15 @@
 
 ![](https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif)
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=002CF7&width=435&lines=About+Me+%3A)](https://git.io/typing-svg)
+##
 
 * I am currently pursuing my B. Tech in Computer Engineering at the Madan Mohan Malaviya University of Technology. I have a strong passion for problem-solving and enjoy participating in competitive programming contests.  
   
 * I have achieved significant milestones in various coding platforms, including being an Expert on Codeforces with a maximum rating of 1638, a 5-star coder on Codechef with a maximum rating of 2000, and a Knight on Leetcode with a maximum rating of 2038 (top 2.1%). I actively participate in coding competitions and consistently strive to enhance my coding skills.  
 
-## Technical skill  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED16&width=435&lines=Technical+skill+%3A)](https://git.io/typing-svg)
+##  
 
 * Proficient in C++, C, Python, Java, HTML/CSS, and JavaScript.
 
@@ -63,7 +65,8 @@
 
 * Experience in data structures, algorithms, OOPs, DBMS, computer networks, and operating systems 
 
-## Projects I worked on
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6311F7&width=435&lines=Projects+I+worked+on+%3A)](https://git.io/typing-svg)
+## 
 
 * I have also worked on some Mern stack projects such as 
   * Doctor Appointment Booking App, and 
@@ -78,8 +81,9 @@
  [Sample🪝 Video](https://www.youtube.com/watch?v=1MDSDfJSC08&list=PLzaLmZGByna7Pw1D5_EXcPods9k5xCAFa)     
  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
  </div>
-    
- ## Contact Me:
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ADBA&width=435&lines=Contact+Me%3A)](https://git.io/typing-svg)
+ ## 
 
   * I am always open to collaboration and eager to discuss new ideas and opportunities. If you have any questions or would like to connect, feel free to reach out to me via email at anuragdw0710@gmail.com. You can also find me on Linkedin at [Anurag Dwivedi](https://www.linkedin.com/in/anuragdwivedi45) and on Twitter at [@Anuragdwivedi45](https://twitter.com/Anuragdwivedi45).
  
@@ -88,7 +92,8 @@
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hydracody)
 [![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://anuragdwivedi.carrd.co/)
 
-## My competitive programming achievement are
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CF700&width=435&lines=Competitive+programming+achievement%3A)](https://git.io/typing-svg)
+## 
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hydra_cody)
 
@@ -100,14 +105,16 @@
 *   Ranked 67 Range de code College ContestRankedamong 300+ participates
 
 
-## Open source Contribution
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BCE6F7&width=435&lines=Open+source+Contribution%3A)](https://git.io/typing-svg)
+## 
 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
 * Participated in Hacktofest 2021 and contributes to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
 
 
 
-## Currently 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Currently+%3A)](https://git.io/typing-svg)
+##  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
