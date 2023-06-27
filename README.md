@@ -6,8 +6,8 @@
 ![](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
 
 
-## Github summary
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F725E4&width=435&lines=Github+summary)](https://git.io/typing-svg)
+## 
 ![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710) 
 
 ![2](https://github-readme-stats-sigma-five.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
