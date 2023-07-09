@@ -15,7 +15,6 @@
 
 ![4](https://github-profile-trophy.vercel.app/?username=anuragdw710)
 
-![](https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif)
 
 
 ## About Me:
