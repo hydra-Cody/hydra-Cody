@@ -62,9 +62,8 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-* Experience in data structures, algorithms, OOPs, DBMS, computer networks, and operating systems 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6311F7&width=435&lines=Projects+I+worked+on+%3A)](https://git.io/typing-svg)
+* Experience in data structures, algorithms, OOPs, DBMS, computer networks, and operating systems
+  
 ## Projects I worked on :
 
 * I have also worked on some Mern stack projects such as 
@@ -81,7 +80,7 @@
  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
  </div>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ADBA&width=435&lines=Contact+Me%3A)](https://git.io/typing-svg)
+
  ## Contact Me:
 
   * I am always open to collaboration and eager to discuss new ideas and opportunities. If you have any questions or would like to connect, feel free to reach out to me via email at anuragdw0710@gmail.com. You can also find me on Linkedin at [Anurag Dwivedi](https://www.linkedin.com/in/anuragdwivedi45) and on Twitter at [@Anuragdwivedi45](https://twitter.com/Anuragdwivedi45).
@@ -101,7 +100,7 @@
 * Air 51 Codeforces Round 875(Div2) among 21k+ 
 * Air 38 Codechef Starters 67 among 3k+
 * Ranked 5th in syntax siege College coding  among 200+ teams
-*   Ranked 67 Range de code College ContestRankedamong 300+ participates
+* Ranked 67 Range de code College ContestRankedamong 300+ participates
 
 
 ## Open Source Contribution :
