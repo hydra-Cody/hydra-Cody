@@ -13,7 +13,6 @@
 
 ![3](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)
 
-![4](https://github-profile-trophy.vercel.app/?username=anuragdw710)
 
 ## Open Source Contribution :
 
