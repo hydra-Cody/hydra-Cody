@@ -22,13 +22,15 @@
 
 ## Projects I worked on :
 
-* I have also worked on some Mern stack projects such as 
-  * Doctor Appointment Booking App, and 
-  * Crwn Clothing App.  
-  * Nasa Space Mission App
+* I have also worked on some Mern stack projects such as
+  ** Current Project : 
+  * Doctor Appointment Booking App - A Full Stack Web App for Hospitals. 
+  * Crwn Clothing App -  A Full Stack App for e-commerce. 
+  * Nasa Space Mission App - A Full Stack App to study the nasa plantes data.
+  ** Some other projects :
   * Tic Tac Toe App, Geo Location App, Snake Game App, Web Clock App, Text Reader App, Video-player App, Jumpo Game App, To-Do-List,recipe-finder, Book-Library-ass. 
 * Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a 
-  * face recognition and
+  * Face recognition and
   *  Real stat price predictor.  
   *  Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
   <div>
