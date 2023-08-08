@@ -47,7 +47,7 @@
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hydracody)
 [![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://anuragdwivedi.carrd.co/)
 
-
+<!---
 ##  Currently :
 
 - 🔭 I’m currently working on ...
@@ -58,4 +58,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
