@@ -47,6 +47,10 @@
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hydracody)
 [![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://anuragdwivedi.carrd.co/)
 
+- [CodePen](https://codepen.io/Hazariprasad1907)
+- [Stackoverflow](https://stackoverflow.com/users/15171403/anurag)
+- [dev.to](https://dev.to/anuragdw45)
+
 <!---
 ##  Currently :
 
