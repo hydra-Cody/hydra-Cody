@@ -35,12 +35,7 @@
  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragdwivedi45/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anuragdwivedi45)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hydracody)
-[![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://anuragdwivedi.carrd.co/)
 
-- [CodePen](https://codepen.io/Hazariprasad1907)
-- [Stackoverflow](https://stackoverflow.com/users/15171403/anurag)
-- [dev.to](https://dev.to/anuragdw45)
 
 <!---
 ##  Currently :
