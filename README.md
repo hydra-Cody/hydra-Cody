@@ -2,9 +2,6 @@
 
 #### A passionate software engineer with expertise in competitive coding, web development, and machine learning.
 
-
-![](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
-
 ## Github summary:
 
 ![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710) 
@@ -23,20 +20,14 @@
 ## Projects I worked on :
 
 * I have also worked on some Mern stack projects such as
-  * ⚡Current Project : 
   * Doctor Appointment Booking App - A Full Stack Web App for Hospitals. 
   * Crwn Clothing App -  A Full Stack App for e-commerce. 
   * Nasa Space Mission App - A Full Stack App to study the nasa plantes data.
-  * 📫 Some other projects :
   * Tic Tac Toe App, Geo Location App, Snake Game App, Web Clock App, Text Reader App, Video-player App, Jumpo Game App, To-Do-List,recipe-finder, Book-Library-ass. 
 * Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a 
   * Face recognition and
   *  Real stat price predictor.  
   *  Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
-  <div>
- [Sample🪝 Video](https://www.youtube.com/watch?v=1MDSDfJSC08&list=PLzaLmZGByna7Pw1D5_EXcPods9k5xCAFa)     
- <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
- </div>
 
 
  ## Contact Me:
