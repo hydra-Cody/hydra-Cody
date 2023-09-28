@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7070A&background=191BFF00&vCenter=true&width=435&lines=+Hi+there!+I'm+Anurag+Dwivedi%2C+)](https://git.io/typing-svg)
 
-<h2>A passionate software engineer with expertise in competitive coding, web development, and machine learning.</h2>
+#### A passionate software engineer with expertise in competitive coding, web development, and machine learning.</h2>
 
-## Github summary:
+### Github summary:
 
 ![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710) 
 
@@ -11,13 +11,13 @@
 ![3](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)
 
 
-## Open Source Contribution :
+### Open Source Contribution :
 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
 * Participated in Hacktofest 2021 and contributes to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
 
 
-## Projects I worked on :
+### Projects I worked on :
 
 * I have also worked on some Mern stack projects such as
   * Doctor Appointment Booking App - A Full Stack Web App for Hospitals. 
@@ -30,7 +30,7 @@
   *  Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
 
 
- ## Contact Me:
+ ### Contact Me:
  * I am always open to collaboration and eager to discuss new ideas and opportunities. If you have any questions or would like to connect, feel free to reach out to me via
  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragdwivedi45/)
