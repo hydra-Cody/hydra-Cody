@@ -1,16 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7070A&background=191BFF00&vCenter=true&width=435&lines=+Hi+there!+I'm+Anurag+Dwivedi%2C+)](https://git.io/typing-svg)
 
 A passionate software engineer with experience in competitive coding, web development, and machine learning.</h2>
-
-### Github summary:
-
-![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710) 
-
-![2](https://github-readme-stats-sigma-five.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
-
-![3](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)
-
-
 ### Open Source Contribution :
 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
@@ -34,6 +24,14 @@ A passionate software engineer with experience in competitive coding, web develo
  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragdwivedi45/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anuragdwivedi45)
+
+### Github summary:
+
+![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710) 
+
+![2](https://github-readme-stats-sigma-five.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
+
+![3](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)
 
 
 <!---
