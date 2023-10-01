@@ -22,12 +22,11 @@ A passionate software engineer with experience in competitive coding, web develo
 * I have also worked on some Mern stack projects such as
   * Doctor Appointment Booking App - A Full Stack Web App for Hospitals. 
   * Crwn Clothing App -  A Full Stack App for e-commerce. 
-  * Nasa Space Mission App - A Full Stack App to study the nasa plantes data.
-  * Tic Tac Toe App, Geo Location App, Snake Game App, Web Clock App, Text Reader App, Video-player App, Jumpo Game App, To-Do-List,recipe-finder, Book-Library-ass. 
+  * Learning Project: Space Study App,Tic Tac Toe App, Geo Location App, Snake Game App, Web Clock App, Text Reader App, Video-player App, Jumpo Game App, To-Do-List,recipe-finder, Book-Library-ass. 
 * Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a 
   * Face recognition and
   *  Real stat price predictor.  
-  *  Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
+  *  Learing Projects: Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
 
 
  ### Contact Me:
