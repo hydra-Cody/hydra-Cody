@@ -19,7 +19,7 @@ A passionate software engineer with experience in competitive coding, web develo
   * Face recognition Model
   * Pneumonia Detection Model
   * Learning Projects:
-  * Flower Classification, Time Series Forecasting, Cats vs. dogs Classification, Happy vs. sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
+    Flower Classification, Time Series Forecasting, Cats vs. dogs Classification, Happy vs. sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
 
 
  ### Contact Me:
