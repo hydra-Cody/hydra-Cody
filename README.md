@@ -4,19 +4,21 @@ A passionate software engineer with experience in competitive coding, web develo
 ### Open Source Contribution :
 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
-* Participated in Hacktofest 2021 and contributes to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
+* Participated in Hacktofest 2021 and contributed to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
 
 
 ### Projects I worked on :
 
 * I have also worked on some Mern stack projects such as
-  * Doctor Appointment Booking App - A Full Stack Web App for Hospitals. 
-  * Crwn Clothing App -  A Full Stack App for e-commerce. 
-  * Learning Project: Space Study App,Tic Tac Toe App, Geo Location App, Snake Game App, Web Clock App, Text Reader App, Video-player App, Jumpo Game App, To-Do-List,recipe-finder, Book-Library-ass. 
+  * Doctor Appointment Booking App
+  * E-commerce App 
+  * Learning Project:
+    Space Study App, Tic Tac Toe App, Geo Location App, Snake Game App, Web Clock App, Text Reader App, Video-player App, Jumpo Game App, To-Do-List,recipe-finder, Book-Library-ass. 
 * Apart from this, I have a strong interest in Machine Learning and have built some projects on it such as a 
-  * Face recognition and
-  *  Real stat price predictor.  
-  *  Learing Projects: Flower Classification, Time Series Forecasting, Cats Vs Dogs Classification, Happy VS Sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
+  * Face recognition Model
+  * Pneumonia Detection Model
+  * Learning Projects:
+  * Flower Classification, Time Series Forecasting, Cats vs. dogs Classification, Happy vs. sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
 
 
  ### Contact Me:
