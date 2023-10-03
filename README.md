@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7070A&background=191BFF00&vCenter=true&width=435&lines=+Hi+there!+I'm+Anurag+Dwivedi%2C+)](https://git.io/typing-svg)
 
 A passionate software engineer with experience in competitive coding, web development, and machine learning.</h2>
-### Open Source Contribution :
+### Open Source Contribution/Dev :
 * Participated in [Kaggle 30 ML 2021](https://www.kaggle.com/anuragdw) 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
 * Participated in Hacktofest 2021 and contributed to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
