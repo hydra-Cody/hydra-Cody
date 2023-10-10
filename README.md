@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7070A&background=191BFF00&vCenter=true&width=435&lines=+Hi+there!+I'm+Anurag+Dwivedi%2C+)](https://git.io/typing-svg)
 
-A passionate software engineer with experience in competitive coding, web development, and machine learning.</h2>
+A passionate software engineer with experience in competitive coding, web development, and machine learning.
+
+
 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧/𝐃𝐞𝐯
 * Participated in [Kaggle 30 ML 2021](https://www.kaggle.com/anuragdw) 
 * Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
