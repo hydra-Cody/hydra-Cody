@@ -10,7 +10,7 @@ A passionate software engineer with experience in competitive coding, web develo
 * Participated in Hack [This Fall 2.0 2021](https://drive.google.com/file/d/1ctrC-A5eaH6MXqu1MLacW2rXFyX3gRgm/view?usp=sharing)
 
 
-### Projects I worked on :
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐈 𝐰𝐨𝐫𝐤𝐞𝐝 𝐨𝐧 :
 
 * I have also worked on some Mern stack projects such as
   * Doctor Appointment Booking App
