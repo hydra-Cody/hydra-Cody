@@ -24,13 +24,13 @@ A passionate software engineer with experience in competitive coding, web develo
     Flower Classification, Time Series Forecasting, Cats vs. dogs Classification, Happy vs. sad Classification, Handwriting-Recognition, Clothes Finder, Study Hours.
 
 
- ### Contact Me:
+𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞:
  * I am always open to collaboration and eager to discuss new ideas and opportunities. If you have any questions or would like to connect, feel free to reach out to me via
  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragdwivedi45/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anuragdwivedi45)
 
-### Github summary:
+𝐆𝐢𝐭𝐡𝐮𝐛 𝐬𝐮𝐦𝐦𝐚𝐫𝐲:
 
 ![1](https://github-readme-streak-stats.herokuapp.com/?user=anuragdw710) 
 
