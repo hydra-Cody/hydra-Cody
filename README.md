@@ -3,13 +3,6 @@
 𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐢𝐭𝐡 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐜𝐨𝐝𝐢𝐧𝐠, 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠.
 
 
-𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧/𝐃𝐞𝐯
-* Participated in [Kaggle 30 ML 2021](https://www.kaggle.com/anuragdw) 
-* Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
-* Participated in Hacktofest 2021 and contributed to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
-* Participated in Hack [This Fall 2.0 2021](https://drive.google.com/file/d/1ctrC-A5eaH6MXqu1MLacW2rXFyX3gRgm/view?usp=sharing)
-
-
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐈 𝐰𝐨𝐫𝐤𝐞𝐝 𝐨𝐧 :
 
 * I have also worked on some Mern stack projects such as
@@ -37,6 +30,12 @@
 ![2](https://github-readme-stats-sigma-five.vercel.app/api?username=anuragdw710&show_icons=true&theme=maroongold)
 
 ![3](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragdw710&layout=compact)
+
+𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧/𝐃𝐞𝐯
+* Participated in [Kaggle 30 ML 2021](https://www.kaggle.com/anuragdw) 
+* Participated in GSSOC 2021 and created a pull request [3181](https://github.com/girlscript/winter-of-contributing/pull/3181)
+* Participated in Hacktofest 2021 and contributed to many reports. [3332](https://github.com/jina-ai/jina/pull/3332) ,[955](https://github.com/twowaits/make-pull-request/pull/955) , [97](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/pull/97), [80](https://github.com/SarthakKeshari/CPP-Questions-and-Solutions/issues/80), [76](https://github.com/sachuverma/DataStructures-Algorithms/pull/76), [206](https://github.com/aropan/clist/issues/206), [47](https://github.com/meooow25/carrot/issues/47), [346](https://github.com/AllAlgorithms/cpp/pull/346).
+* Participated in Hack [This Fall 2.0 2021](https://drive.google.com/file/d/1ctrC-A5eaH6MXqu1MLacW2rXFyX3gRgm/view?usp=sharing)
 
 
 <!---
