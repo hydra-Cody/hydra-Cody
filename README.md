@@ -5,10 +5,10 @@
 <details>
   <summary><b>Top Active Project</b></summary>
   <ul>
-- [AERO NAVIGATOR](https://github.com/hydra-Cody/AIRBUSAerothonBackend)
-- [EVENT BOOKING](https://github.com/hydra-Cody/EventBooking)
-- [QUIZ APP](https://github.com/hydra-Cody/QuizApp)
-- [MYNOTES](https://github.com/hydra-Cody/MyNotes)
+  <li><a href="https://github.com/hydra-Cody/AIRBUSAerothonBackend">AERO NAVIGATOR</a></li>
+  <li><a href="https://github.com/hydra-Cody/EventBooking">EVENT BOOKING</a></li>
+  <li><a href="https://github.com/hydra-Cody/QuizApp">QUIZ APP</a></li>
+  <li><a href="https://github.com/hydra-Cody/MyNotes">MYNOTES</a></li>
   </ul>
 </details>
 
