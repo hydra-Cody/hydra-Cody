@@ -10,6 +10,9 @@
   <li><a href="https://github.com/hydra-Cody/QuizApp">QUIZ APP</a></li>
   <li><a href="https://github.com/hydra-Cody/MyNotes">MYNOTES</a></li>
   </ul>
+    <p align="center">
+    <img src="https://cdn.codechef.com/images/badges/contest/diamond.svg"/>
+  </p>
 </details>
 
 <details>
