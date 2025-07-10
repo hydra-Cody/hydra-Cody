@@ -1,5 +1,7 @@
 
-# Hi there 👋 Problem Solving X Creativity = 💗
+# Hi there! 👋 
+#### Fun fact: Problem Solving × Creativity = 💗 — that’s where the magic begins!
+
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydra-Cody&layout=pie)](https://github.com/hydra-Cody/github-readme-stats)
